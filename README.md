@@ -33,6 +33,11 @@ ReactJS uses a component-based architecture that allows developers to create reu
 React JS has a lot of adavantagess that contribute to its widespread adoption in the web development. The key features itself helps to simply develop and enhance the performance of the applications.
 the benefits of using React JS is an implementation for modern front-end development.
 
+## Steps on How to Set Up React JS
+
+Install first the required software to your system.
+- Download node.js [Node.js website](https://nodejs.org/).
+- Download Visual Studio Code [Visual Studio Code website](https://code.visualstudio.com/).
 
 
 
