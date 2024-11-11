@@ -5,10 +5,10 @@
 React.js is an open-source JavaScript library, crafted with precision by Facebook, that aims to simplify the intricate process of building interactive user interfaces. React JS is a library rather than a language, it is widely used in web development and a frontend-focused JS library used mainly for building single-page and multi-page interfaces.
 
 ## History of REACT JS
-• ReactJS was released first in 2013
-• It was developed by Jordan Walke, a software engineer 
-• 2011, Jordan Walke created FaxJS, the early prototype of React.
-• In 2014-2015, Facebook extended React's use to Instagram
+- ReactJS was released first in 2013
+- It was developed by Jordan Walke, a software engineer 
+- 2011, Jordan Walke created FaxJS, the early prototype of React.
+- In 2014-2015, Facebook extended React's use to Instagram
 
 ## Key Features of React JS:
 - **JSX (JavaScript Syntax Extension)**:
