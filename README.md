@@ -11,7 +11,7 @@ React.js is an open-source JavaScript library, crafted with precision by Faceboo
 • In 2014-2015, Facebook extended React's use to Instagram
 
 ## Key Features of React JS:
-• JSX (JavaScript Syntax Extension)
+- **JSX (JavaScript Syntax Extension)**:
 A combination of HTML and JavaScript. JSX compiles down to regular JavaScript code.
 • Virtual DOM 
 DOM stands for Document Object Model, it divides the part of the web into modules and executes the code.
