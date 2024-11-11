@@ -35,9 +35,15 @@ the benefits of using React JS is an implementation for modern front-end develop
 
 ## Steps on How to Set Up React JS
 
-Install first the required software to your system.
+Install first the required software that is compatible to your system.
 - Download node.js [Node.js website](https://nodejs.org/).
 - Download Visual Studio Code [Visual Studio Code website](https://code.visualstudio.com/).
+
+Once installed, check for verification to make sure that the software is finally installed.
+```bash
+ input in the search bar the cmd and type node -v, npm -v
+```
+You'll be able to see the version of node.js downloaded.
 
 
 
