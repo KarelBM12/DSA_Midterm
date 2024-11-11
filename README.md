@@ -41,9 +41,15 @@ the benefits of using React JS is an implementation for modern front-end develop
 
 2. Once installed, check for verification to make sure that the software is successfully installed.
 ```bash
-in the search bar the cmd and type node -v, npm -v
+look for the search bar the cmd and type node -v, npm -v
 ```
 You'll be able to see the version of node.js downloaded.
+
+3. Look for the folder where React JS saved and run in cmd the command:
+```bash
+npx create-react-app my-app
+```
+- React Docs [React docs website](https://legacy.reactjs.org/).
 
 
 
