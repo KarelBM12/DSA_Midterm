@@ -47,9 +47,24 @@ You'll be able to see the version of node.js downloaded.
 
 3. Look for the folder where React JS saved and run in cmd the command:
 ```bash
-npx create-react-app my-app
+npx create-react-app my-app-try
 ```
-- React Docs [React docs website](https://legacy.reactjs.org/).
+- React Docs Commands [React docs website](https://legacy.reactjs.org/).
+
+Initializing react may take some minutes...
+
+4. After running command, open the folder of React JS in Visual Studio Code.
+and be able to see all the connections and new features used for improvement in React JS.
+
+5. Look for the App.js in Visual Studio Code and run in terminal using commands:
+```bash
+cd my-app-try
+npm start
+```
+6. You have now successfully installed and download React JS.
+
+
+
 
 
 
