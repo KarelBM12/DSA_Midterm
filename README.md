@@ -13,13 +13,13 @@ React.js is an open-source JavaScript library, crafted with precision by Faceboo
 ## Key Features of React JS:
 - **JSX (JavaScript Syntax Extension)**:
 A combination of HTML and JavaScript. JSX compiles down to regular JavaScript code.
-• Virtual DOM 
+- **Virtual DOM**: 
 DOM stands for Document Object Model, it divides the part of the web into modules and executes the code.
-• One-way Data Binding
+- **One-way Data Binding**:
 A one-direction flow that the data reacts only in one direction i.e the data is transferred from top to bottom.
-• Declarative UI
+- **Declarative UI**:
 React's declarative defines on what the UI should look like, it simplifies development and improves code predictability.
-• Component-based architecture
+- **Component-based architecture**:
 ReactJS uses a component-based architecture that allows developers to create reusable UI components. It makes easy to build large and complex applications.
 
 
