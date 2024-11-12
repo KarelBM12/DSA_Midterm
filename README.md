@@ -2,7 +2,8 @@
 
 ## What is REACT JS?
 
-React.js is an open-source JavaScript library, crafted with precision by Facebook, that aims to simplify the intricate process of building interactive user interfaces. React JS is a library rather than a language, it is widely used in web development and a frontend-focused JS library used mainly for building single-page and multi-page interfaces.
+React js is an open-source JavaScript library, crafted with precision by Facebook, that aims to simplify the intricate process of building interactive user interfaces.
+React JS is a library rather than a language, it is widely used in web development and a frontend-focused JS library used mainly for building single-page and multi-page interfaces.
 
 ## History of REACT JS
 - ReactJS was released first in 2013
@@ -25,7 +26,7 @@ ReactJS uses a component-based architecture that allows developers to create reu
 ## Application of React JS
 - React JS can be applied in social media platforms that engages with framework with codebase, UX and UI experiences.
  There are lot of large companies use React JS for complex and dynamic apllication. With these examples, we've been enlightened 
- why React become an major part in modern web development, also one of the key reason why React has been popular in web development for its flexibility.
+ why React become a major part in modern web development, also one of the key reason why React has been popular in web development for its flexibility.
 Through time, the React's significance expands on how to world evolves that connects to the web.
 
 
